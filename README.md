@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @definetlynotsbk
+- 👀 I’m interested in C++, Python, Javascript and Exploitation of Code :P
+- 🌱 I’m currently learning C++ and JavScript
+- 📫 How to reach me ???
